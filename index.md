@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Max Hadden - Independent Programming Projects
 
 You can use the [editor on GitHub](https://github.com/maniha7/My-Work/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
