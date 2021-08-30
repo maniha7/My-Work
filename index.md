@@ -1,4 +1,4 @@
-# Max Hadden - Independent Programming Projects
+# Independent Programming Projects
 Below are personal projects I have completed February 2021 onwards.
 
 
