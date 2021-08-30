@@ -26,6 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Langton's Ant
 <https://github.com/maniha7/Langton-s-Ant>
+
 This program runs a Langton's Ant algorithm using 5 randomized colors, as well as turn directions that are randomized at the beginning of each simulation.  Random picking of turn directions are optimized to prevent starting values that cause the simulation to get caught in an confined loop in the beginning of the simulation.
 
 
@@ -38,6 +39,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Wolfram's Elementary Cellular Automata
 <https://github.com/maniha7/Wolframs-Elementary-Cellular-Automata>
+
 This program runs the Elementary Cellular Automata using a randomized starting rule.
 
 **VIDEO DEMO**
