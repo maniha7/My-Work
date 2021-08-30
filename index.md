@@ -1,5 +1,5 @@
 # Max Hadden - Independent Programming Projects
-Below are personal projects I have completed February 2021 onwards
+Below are personal projects I have completed February 2021 onwards.
 
 
 # Cellular Automata (Python)
