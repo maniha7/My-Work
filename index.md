@@ -10,7 +10,7 @@ Below are personal projects I have completed February 2021 onwards.
 
 
 
-## Conway's Game of Life
+### Conway's Game of Life
 <https://github.com/maniha7/Game-of-Life>
 
 Utilizing Pygame, this program runs a Conway's Game of Life cellular automata with extensive user control. Users draw the the active starting cells on the screen and start the automata with the spacebar. Users may undo changes they've made during the drawing process, and can pause mid-animation and draw additional cells before then continuing the animation. When the user is done, they may clear the screen or reset the drawing they just simulated. Users can also control animation speed, as well as paste in specific preset shapes with interesting evolutions.
