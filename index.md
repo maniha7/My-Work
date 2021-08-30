@@ -9,7 +9,6 @@ Below are personal projects I have completed February 2021 onwards.
 - Wolfram's Elementary Cellular Automata
 
 
-
 ### Conway's Game of Life
 <https://github.com/maniha7/Game-of-Life>
 
@@ -21,9 +20,9 @@ Utilizing Pygame, this program runs a Conway's Game of Life cellular automata wi
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ajelLPL6CUA
 " target="_blank"><img src="http://img.youtube.com/vi/ajelLPL6CUA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-
+<br>
+<br>
+<br>
 ### Langton's Ant
 <https://github.com/maniha7/Langton-s-Ant>
 
@@ -35,8 +34,9 @@ This program runs a Langton's Ant algorithm using 5 randomized colors, as well a
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OglhjBUFO00
 " target="_blank"><img src="http://img.youtube.com/vi/OglhjBUFO00/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
+<br>
+<br>
+<br>
 ### Wolfram's Elementary Cellular Automata
 <https://github.com/maniha7/Wolframs-Elementary-Cellular-Automata>
 
@@ -47,8 +47,9 @@ This program runs the Elementary Cellular Automata using a randomized starting r
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PHBKFyh4U20
 " target="_blank"><img src="http://img.youtube.com/vi/PHBKFyh4U20/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
+<br>
+<br>
+<br>
 # Tree Growing Algorithm (Python)
 <https://github.com/maniha7/Tree-Growing-Algorithm>
 
