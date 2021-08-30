@@ -9,7 +9,7 @@ Below are personal projects I have completed February 2021 onwards.
 - Wolfram's Elementary Cellular Automata
 
 
-### Conway's Game of Life
+## Conway's Game of Life
 <https://github.com/maniha7/Game-of-Life>
 
 Utilizing Pygame, this program runs a Conway's Game of Life cellular automata with extensive user control. Users draw the the active starting cells on the screen and start the automata with the spacebar. Users may undo changes they've made during the drawing process, and can pause mid-animation and draw additional cells before then continuing the animation. When the user is done, they may clear the screen or reset the drawing they just simulated. Users can also control animation speed, as well as paste in specific preset shapes with interesting evolutions.
@@ -23,7 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
-### Langton's Ant
+## Langton's Ant
 <https://github.com/maniha7/Langton-s-Ant>
 
 This program runs a Langton's Ant algorithm using 5 randomized colors, as well as turn directions that are randomized at the beginning of each simulation.  Random picking of turn directions are optimized to prevent starting values that cause the simulation to get caught in an confined loop in the beginning of the simulation.
@@ -37,7 +37,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
-### Wolfram's Elementary Cellular Automata
+## Wolfram's Elementary Cellular Automata
 <https://github.com/maniha7/Wolframs-Elementary-Cellular-Automata>
 
 This program runs the Elementary Cellular Automata using a randomized starting rule.
