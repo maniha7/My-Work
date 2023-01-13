@@ -5,7 +5,9 @@ Below are personal projects I have completed February 2021 onwards.
 <https://github.com/maniha7/ChessAI>
 
 This program launches a chess game with a complete GUI implemented with PyGame. Users may choose if they would like to play against an AI, or watch the AI play against itself. The AI aspect of the program is implemented using C, to take advantage of the language's much faster computation when compared to Python. 
+
 The AI uses a custom algorithm derived from a combination of a standard depth-first-search game-tree exploration phase, and a Monte-Carlo tree search based node scoring phase. After exploring the game-tree to a given depth and performing a heuristic evaluation of all leaf nodes, parent nodes up to the root are scored with the average score of all their children, resulting in "top-level" immediate move scores representing the average outcome of making that move (to the given depth).
+
 This algorithm in C evaluates on average approximately 700,000 moves per second during its computation, representing a speed increase of over 1000x from Python, which running the same algorithm can only process around 600 moves per second.
 
 <a href="https://www.youtube.com/watch?v=eJibH-Cjmc8
