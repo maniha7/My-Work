@@ -10,9 +10,12 @@ The AI uses a custom algorithm derived from a combination of a standard depth-fi
 
 This algorithm in C evaluates on average approximately 700,000 moves per second during its computation, representing a speed increase of over 1000x from Python, which running the same algorithm can only process around 600 moves per second.
 
+**VIDEO DEMO**
+
 <a href="https://www.youtube.com/watch?v=eJibH-Cjmc8
 " target="_blank"><img src="http://img.youtube.com/vi/eJibH-Cjmc8/0.jpg" 
 alt="Game of Life" width="240" height="180" border="10" /></a>
+
 
 # Cellular Automata (Python)
 
