@@ -45,7 +45,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
-## Wolfram's Elementary Cellular Automata (Python)
+# Wolfram's Elementary Cellular Automata (Python)
 <https://github.com/maniha7/Wolframs-Elementary-Cellular-Automata>
 
 This program runs the Elementary Cellular Automata using a randomized starting rule.
