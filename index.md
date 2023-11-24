@@ -1,5 +1,5 @@
-# Independent Programming Projects
-Below are personal projects I have completed February 2021 onwards.
+# Max Hadden - Programming Portfolio
+Below are programming projects I have completed as of February 2021 and beyond.
 
 # Chess AI (Python & C)
 <https://github.com/maniha7/ChessAI>
