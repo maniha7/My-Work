@@ -24,6 +24,7 @@ As co-founder and CTO of the small Cornell student-run tech startup Pavvilion, I
 Pavvilion is not open-source, but code may be provided upon request.
 
 **VIDEO DEMO**
+
 <a href="https://www.youtube.com/watch?v=4sI9UVPREe8
 " target="_blank"><img src="http://img.youtube.com/vi/4sI9UVPREe8/0.jpg" 
 alt="Pavvilion College Demo" width="240" height="180" border="10" /></a>
