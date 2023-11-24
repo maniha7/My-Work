@@ -10,6 +10,14 @@ The AI uses a custom algorithm derived from a combination of a standard depth-fi
 
 This algorithm in C evaluates on average approximately 700,000 moves per second during its computation, representing a speed increase of over 1000x from Python, which running the same algorithm can only process around 600 moves per second.
 
+**VIDEO DEMO**
+
+<a href="https://www.youtube.com/watch?v=eJibH-Cjmc8
+" target="_blank"><img src="http://img.youtube.com/vi/eJibH-Cjmc8/0.jpg" 
+alt="Chess AI" width="240" height="180" border="10" /></a>
+<br>
+<br>
+<br>
 # Pavvilion (React Native, JS, HTML, CSS, Google Cloud Firestore)
 As co-founder and CTO of the small Cornell student-run tech startup Pavvilion, I spent the majority of our development as the sole programmer responsible for building the mobile application that our company revolved around. I built nearly every piece of the platform independently, across the front-end and back-end, fitting countless tiny functionalities into one cohesive system to achieve our team's goals. Database queries and general architecture were constructed with efficiency and scalability in mind, such that even if our app massively exceeded our anticipated number of users, it would continue to operate without any noticeable decrease in the application's performance.
 
@@ -19,15 +27,9 @@ Pavvilion is not open-source, but code may be provided upon request.
 <a href="https://www.youtube.com/watch?v=4sI9UVPREe8
 " target="_blank"><img src="http://img.youtube.com/vi/4sI9UVPREe8/0.jpg" 
 alt="Pavvilion College Demo" width="240" height="180" border="10" /></a>
-
-
-**VIDEO DEMO**
-
-<a href="https://www.youtube.com/watch?v=eJibH-Cjmc8
-" target="_blank"><img src="http://img.youtube.com/vi/eJibH-Cjmc8/0.jpg" 
-alt="Chess AI" width="240" height="180" border="10" /></a>
-
-
+<br>
+<br>
+<br>
 # Conway's Game of Life Cellular Automata (Python)
 <https://github.com/maniha7/Game-of-Life>
 
