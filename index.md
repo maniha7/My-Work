@@ -10,11 +10,22 @@ The AI uses a custom algorithm derived from a combination of a standard depth-fi
 
 This algorithm in C evaluates on average approximately 700,000 moves per second during its computation, representing a speed increase of over 1000x from Python, which running the same algorithm can only process around 600 moves per second.
 
+# Pavvilion (React Native, JS, HTML, CSS, Google Cloud Firestore)
+As co-founder and CTO of the small Cornell student-run tech startup Pavvilion, I spent the majority of our development as the sole programmer responsible for building the mobile application that our company revolved around. I built nearly every piece of the platform independently, across the front-end and back-end, fitting countless tiny functionalities into one cohesive system to achieve our team's goals. Database queries and general architecture were constructed with efficiency and scalability in mind, such that even if our app massively exceeded our anticipated number of users, it would continue to operate without any noticeable decrease in the application's performance.
+
+Pavvilion is not open-source, but code may be provided upon request.
+
+**VIDEO DEMO**
+<a href="https://www.youtube.com/watch?v=4sI9UVPREe8
+" target="_blank"><img src="http://img.youtube.com/vi/4sI9UVPREe8/0.jpg" 
+alt="Pavvilion College Demo" width="240" height="180" border="10" /></a>
+
+
 **VIDEO DEMO**
 
 <a href="https://www.youtube.com/watch?v=eJibH-Cjmc8
 " target="_blank"><img src="http://img.youtube.com/vi/eJibH-Cjmc8/0.jpg" 
-alt="Game of Life" width="240" height="180" border="10" /></a>
+alt="Chess AI" width="240" height="180" border="10" /></a>
 
 
 # Conway's Game of Life Cellular Automata (Python)
@@ -27,7 +38,7 @@ Utilizing Pygame, this program runs a Conway's Game of Life cellular automata wi
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ajelLPL6CUA
 " target="_blank"><img src="http://img.youtube.com/vi/ajelLPL6CUA/0.jpg" 
-alt="Game of Life" width="240" height="180" border="10" /></a>
+alt="Game of Life Automata" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
@@ -41,7 +52,7 @@ This program runs a Langton's Ant algorithm using 5 randomized colors, as well a
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OglhjBUFO00
 " target="_blank"><img src="http://img.youtube.com/vi/OglhjBUFO00/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Langtons Ant Automata" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
@@ -54,7 +65,7 @@ This program runs the Elementary Cellular Automata using a randomized starting r
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PHBKFyh4U20
 " target="_blank"><img src="http://img.youtube.com/vi/PHBKFyh4U20/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Wolframs Automata" width="240" height="180" border="10" /></a>
 <br>
 <br>
 <br>
@@ -67,4 +78,4 @@ This project comprises a set of several algorithms which together draw a randoml
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EyXyJo-bQBQ
 " target="_blank"><img src="http://img.youtube.com/vi/EyXyJo-bQBQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Tree Growing Algorithm" width="240" height="180" border="10" /></a>
